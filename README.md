@@ -1,2 +1,0 @@
-# GSSI React Website
- 
